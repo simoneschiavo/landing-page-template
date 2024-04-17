@@ -183,7 +183,7 @@ blockquote {
     padding: 50px;
     border-radius: 5px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     gap: 35px;
 }
